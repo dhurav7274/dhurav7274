@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQGto_5mWqCz0A/profile-displaybackgroundimage-shrink_350_1400/0/1691315923856?e=1697068800&v=beta&t=rjknnUfi7XbHBXsjTlZ16BAdpFLRw8BrNSuObus9qXg)
+
 <h1 align="center">Hi 👋, I'm Dhurav Kumar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
