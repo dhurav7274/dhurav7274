@@ -3,34 +3,6 @@
 
 I am a passionate Full Stack Developer specializing in Node.js, Express, MongoDB, Angular, and PostgreSQL. I enjoy building scalable backend systems, RESTful APIs, and real-time applications.
 
-💡 I have experience working on:
-
-CRUD Applications with proper validation & MVC architecture
-
-Chat Application Backend using Socket.io
-
-Microservices Architecture with API Gateway
-
-File Management & QR-based download systems
-
-Authentication & Authorization systems
-
-🔧 Tech Stack:
-
-Backend: Node.js, Express.js, MongoDB, PostgreSQL
-
-Frontend: Angular, EJS, Bootstrap, Tailwind CSS
-
-Tools: Git, GitHub, Postman, Docker (basic), REST APIs
-
-🌱 Currently Learning:
-
-Advanced Microservices Architecture
-
-System Design & Scalability
-
-Performance Optimization
-
 🎯 Goal:
 To build high-performance, scalable web applications and contribute to impactful projects.
 
