@@ -26,7 +26,7 @@ To build high-performance, scalable web applications and contribute to impactful
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhurav7274&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhurav7274&theme=default" alt="GitHub Streak"  width="100%"/>
 
 ## GitHub Activity Graph
 
