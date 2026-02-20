@@ -1,27 +1,61 @@
+# Hello 👋, I'm Dhurav Kumar
+### Full-Stack Developer
 
-<h1 align="center">Hi 👋, I'm Dhurav Kumar</h1>
-<h3 align="center">A passionate software developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhurav7274&label=Profile%20views&color=0e75b6&style=flat" alt="dhurav7274" /> </p>
+I am a passionate Full Stack Developer specializing in Node.js, Express, MongoDB, Angular, and PostgreSQL. I enjoy building scalable backend systems, RESTful APIs, and real-time applications.
 
-- 🌱 I’m currently learning : **react js**
+💡 I have experience working on:
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhurav7274?tab=repositories](https://github.com/dhurav7274?tab=repositories)
+CRUD Applications with proper validation & MVC architecture
 
-- 💬 Ask me about : **Angular8+ , JavaScript , TypeScript ,Html ,Css etc**
+Chat Application Backend using Socket.io
 
-- 📫 How to reach me : **dhuravmaheshpur@outlook.com**
+Microservices Architecture with API Gateway
 
-- ⚡ Fun fact : **I'm funny 😎**
+File Management & QR-based download systems
 
-<h3 align="left">Connect with me:</h3>
-  
-<a href="https://twitter.com/dhurav7274" target="blank"><img align="center" src="https://th.bing.com/th/id/R.3f7189662f19f8318fc75252deee723a?rik=Qa956Np1tp8Zcg&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f06%2fTwitter-Logo.png&ehk=6ekNd2ZmhpvFDGRZF19QcumP9fb8pZRkwrbFbK%2bpULA%3d&risl=&pid=ImgRaw&r=0" alt="dhurav7274" height="50px" width="50px" />dhurav7274</a>
+Authentication & Authorization systems
 
-<a href="https://linkedin.com/in/dhurav7274" target="blank"><img align="center" src="https://beaconman.com/wp-content/uploads/2020/11/Linkedin_symbol_transparent.png" alt="dhurav7274" height="50px" width="50px" />dhurav7274</a>
+🔧 Tech Stack:
 
-<a href="https://instagram.com/codewithtechdhruv" target="blank"><img align="center" src="https://vignette.wikia.nocookie.net/youtubepedia/images/b/b7/Instagram.png/revision/latest?cb=20180107191930&path-prefix=es" alt="codewithtechdhruv" height="50px" width="50px" />CodeWithTechDhruv</a>
+Backend: Node.js, Express.js, MongoDB, PostgreSQL
 
+Frontend: Angular, EJS, Bootstrap, Tailwind CSS
 
+Tools: Git, GitHub, Postman, Docker (basic), REST APIs
 
+🌱 Currently Learning:
 
+Advanced Microservices Architecture
+
+System Design & Scalability
+
+Performance Optimization
+
+🎯 Goal:
+To build high-performance, scalable web applications and contribute to impactful projects.
+
+## Skills
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+</p>
+
+## GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhurav7274&theme=default" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhurav7274&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
